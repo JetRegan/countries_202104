@@ -9,6 +9,7 @@ notTripoli
 notArabic
 
 ## interesting trivia
-90% desert
+90% desert.
+Libya is the fourth largest country in Africa.
 
 
